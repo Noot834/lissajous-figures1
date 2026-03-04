@@ -1,5 +1,5 @@
-# lissajous-figures1
-python programm to simulate lissajous figures with real-time changable parametrs
+# lissajous-figures
+программа на Python для симуляции фигур Лиссажу в реальном времени с возможностью изменять параметры
  
 
 Установка
